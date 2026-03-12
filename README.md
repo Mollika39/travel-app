@@ -1,4 +1,4 @@
-#🌍 Travel App
+**🌍 Travel App**
 
 A modern and responsive Travel Web Application built with React.js that allows users to explore destinations, view travel details, and plan their trips efficiently. The application focuses on delivering a clean UI and smooth user experience for discovering travel locations.
 
